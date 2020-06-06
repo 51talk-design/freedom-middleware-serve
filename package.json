@@ -1,0 +1,43 @@
+{
+  "name": "@51npm/freedom-middleware-serve",
+  "version": "1.0.0",
+  "description": "本地预览build以后的资源服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shangshanruoshui",
+  "maintainers": [
+    {
+      "name": "shangshanruoshui",
+      "email": "gxgongxueyuan123@163.com"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "shangshanruoshui",
+      "email": "gxgongxueyuan123@163.com"
+    }
+  ],
+  "keywords": [
+    "javascript",
+    "webpack",
+    "es6",
+    "babel",
+    "typescript",
+    "serve",
+    "build",
+    "middleware"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/51talk-design/freedom-middleware-serve"
+  },
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^0.19.1",
+    "serve-static": "^1.14.1"
+  }
+}
